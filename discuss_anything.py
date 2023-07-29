@@ -13,7 +13,7 @@ set_api_key(ELEVENLABS_API_KEY)
 # Configurables go here
 ROBOT_VOICE = "Mark 1 Discussion Bot"
 tts_use_streaming = False # Whether to read TTS from a file or stream it
-discussion_limit = 3 # If None, generates unlimited articles until program is halted. Set to an integer for a fixed number of discussions.
+discussion_limit = None # If None, generates unlimited articles until program is halted. Set to an integer for a fixed number of discussions.
 bot_min_wait = 30 # Shortest allowable time (in seconds) between discussion prompts
 bot_max_wait = 300 # Longest allowable time (in seconds) between discussion prompts
 
