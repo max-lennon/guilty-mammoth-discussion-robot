@@ -1,6 +1,6 @@
 # discussion-robot-unleashed
 
-<h1 id="project_title"><a href=https://github.com/max-lennon/guilty-mammoth-discussion-robot>View code</a></h1>
+<a href=https://github.com/max-lennon/guilty-mammoth-discussion-robot><h1 id="project_title">View code</h1></a>
 
 A silver bullet for dull conversation.
 
