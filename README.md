@@ -6,3 +6,5 @@ Packages needed:
 * pywikibot
 * python-vlc
 * soundfile
+
+(The discussion robot was given the label Guilty Mammoth for SEO reasons) 
